@@ -1,0 +1,7 @@
+hust          199          1          google.com          7          5          0.714286
+soict          199          1          facebook.com          2          1          0.500000
+loi          199          1          group3_LTM.com          6          3          0.500000
+abc          199          1          group3_LTM.com          0          0          0.000000
+anc          anc          1          group3_LTM.com          0          0          0.000000
+ngan          1          1          group3_LTM.com          1          0          0.000000
+abcd          199          1          group3_LTM.com          0          0          0.000000
